@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Britney Hanna</h1>
 <h3 align="center">A passionate fullstack developer from South Florida</h3>
 
-- 🌱 I’m currently learning **AWS**
+
 
 - 💬 Ask me about **Javascript, React, Express and Node**
 
